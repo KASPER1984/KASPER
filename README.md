@@ -1,13 +1,13 @@
-# <p align="center" style="color:#cb3349" > [<< TH3BOSS >> V20 (Final Version)](https://telegram.me/llDEV1ll)
+# <p align="center" style="color:#cb3349" > [<< KASPER10K>> V20 (Final Version)](https://t.me/USA_KASPER)
 
  <p align="center" style="color: #14635c;" > بوت الزعيم الاقوى والاحدث لحمايه المجموعات في التلكرام
-<p align="center"><img src="زعيم.jpg" alt="بوت زعيم" title="بوت زعيم">
+<p align="center"><img src="حيدر.jpg" alt="بوت حيدر" title="بوت حيدر">
 
 ***
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
+git clone https://github.com/KASPER1984/KASPER.git&& cd KASPER&& chmod +x KASPER.sh && ./KASPER.sh install && ./KASPER.sh
 ```
 
 
@@ -41,17 +41,17 @@ chmod +x KASPER.sh
 ```
 ⇣ ┇للاستفسار راسلني 
 ```sh
-@TH3BOSS
+@KASPER10K
 ```
 ⇣ ┇للاستفسار راسلني 
 ```sh
-@lBOSSl
+@KASPER10K
 ```
-##  [⇣ ┇انتظر قليلا ثم يطلب منك ايدي وتوكن خلي ايديك والتوكن مبروك عليك افضل بوت بالتلكرام](https://telegram.me/llDEV1ll)
+##  [⇣ ┇انتظر قليلا ثم يطلب منك ايدي وتوكن خلي ايديك والتوكن مبروك عليك افضل بوت بالتلكرام](https://t.me/USA_KASPER)
 # <p align="center"> ⇣ ┇  للاستفسار راسلني 
 
-  [Mohammed Hisham](https://telegram.me/TH3BOSS) <br>
+  [Mohammed Hisham](https://telegram.me/KASPER10K) <br>
   
-  [TH3BOSS](https://telegram.me/LBOSSL) <br>
+  [KASPER10K](https://t.me/USA_KASPER) <br>
   
-  [CH - TH3BOSS](https://telegram.me/LLDEV1LL) 
+  [KASPER10K](https://t.me/USA_KASPER) 
