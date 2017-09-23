@@ -1,4 +1,4 @@
-# <p align="center" style="color:#cb3349" > [<< KASPER10K>> V20 (Final Version)](https://t.me/USA_KASPER)
+# <p align="center" style="color:#cb3349" > [<< KASPER10K>> (https://t.me/USA_KASPER)
 
  <p align="center" style="color: #14635c;" > بوت الزعيم الاقوى والاحدث لحمايه المجموعات في التلكرام
 <p align="center"><img src="حيدر.jpg" alt="بوت حيدر" title="بوت حيدر">
