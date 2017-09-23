@@ -1,6 +1,6 @@
 # <p align="center" style="color:#cb3349" > [<< KASPER10K>> (https://t.me/USA_KASPER)
 
- <p align="center" style="color: #14635c;" > بوت الزعيم الاقوى والاحدث لحمايه المجموعات في التلكرام
+ <p align="center" style="color: #14635c;" > بوت حيدر الاقوى والاحدث لحمايه المجموعات في التلكرام
 <p align="center"><img src="حيدر.jpg" alt="بوت حيدر" title="بوت حيدر">
 
 ***
@@ -13,7 +13,7 @@ git clone https://github.com/KASPER1984/KASPER.git&& cd KASPER&& chmod +x KASPER
 
 <br>
 
-# <p align="center" style="color: #14635c;" >  تنصيب سورس الزعيم الاصدار 20 والاخير
+# <p align="center" style="color: #14635c;" >  تنصيب سورس كاسبر الاصدار 20 والاخير
 
 ⇣ ┇  افتـح ترمنـــأل وخلي هاي
 ```sh
