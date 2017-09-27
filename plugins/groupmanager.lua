@@ -2230,12 +2230,12 @@ end
 	end
  if msg.newuser then
  if msg.newuser.id == bot.id then
-   local rsala =[[⇣ ┇  مرحبا انا بوت اسمي الزعيم 🎖
+   local rsala =[[⇣ ┇  مرحبا انا بوت اسمي كاسبر 🎖
 ⇣ ┇ اختصاصي حمايه كروبات 
 ⇣ ┇ من السبام والوسائط والتكرار والخ ...
 ⇣ ┇ Developer : [KASPER10K](Telegram.Me/KASPER10K)
 
-⇣ ┇ Developer : [KASPER10K](Telegram.Me/lBOSSl)
+⇣ ┇ Developer : [KASPER10K](Telegram.Me/KASPER10K)
 ]]
 	sendPhoto(msg.to.id, "data/photos/KASPER10K.jpg", rsala, msg.id)
 end
