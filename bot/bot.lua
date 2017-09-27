@@ -74,7 +74,7 @@ function load_config( )
   local f = io.open('./data/config.lua', "r")
   -- If config.lua doesn't exist
   if not f then
-print ("\n⇣   جاري انشاء الكونفك  : \n⇣   خلي ايديك والتوكن وسوف يتم تشغيل بوتك\n⇣  سورس الزعيم الاصدار 19")  
+print ("\n⇣   جاري انشاء الكونفك  : \n⇣   خلي ايديك والتوكن وسوف يتم تشغيل بوتك\n⇣  سورس كاسبر ")  
     create_config()
   else
     f:close()
